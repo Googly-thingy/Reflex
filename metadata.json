@@ -1,0 +1,6 @@
+{
+  "name": "Reflex Zero",
+  "description": "Ultra-low latency tactile reflex tracker using vibration stimuli and physical volume button response timing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
